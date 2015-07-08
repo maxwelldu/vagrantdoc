@@ -8,7 +8,7 @@ Vagrant使开发环境更容易!
 概述
 -----
 
-* **翻译中** [简介](overview.md)
+* **已定稿** [简介](overview.md)
 
 为什么Vagrant
 ------
@@ -27,16 +27,16 @@ Vagrant使开发环境更容易!
 开始
 -----
 
-* **翻译中** [简介](started-overview.md)
-* **翻译中** [项目安装](started-project-setup.md)
+* **已定稿** [简介](started-overview.md)
+* **已定稿** [项目安装](started-project-setup.md)
 * **翻译中** [盒子](started-boxes.md)
-* **翻译中** [启动和连接](started-up-and-ssh.md)
-* **翻译中** [同步目录](started-synced-folders.md)
+* **已定稿** [启动和连接](started-up-and-ssh.md)
+* **已定稿** [同步目录](started-synced-folders.md)
 * **翻译中** [提供](started-provisioning.md)
 * **翻译中** [网络](started-networking.md)
 * **翻译中** [分享](started-share.md)
 * **翻译中** [拆卸](started-teardown.md)
-* **翻译中** [重新建立](started-rebuild.md)
+* **已定稿** [重新建立](started-rebuild.md)
 * **翻译中** [提供者](started-providers.md)
 
 命令行接口
