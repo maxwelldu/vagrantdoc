@@ -121,7 +121,7 @@ Boxes
 * **已定稿** [基础用法](networking-basic-usage.md)
 * **已定稿** [端口转发](networking-forwarded-ports.md)
 * **已定稿** [私有网络](networking-private-network.md)
-* **翻译中** [公共网络](networking-public-network.md)
+* **已定稿** [公共网络](networking-public-network.md)
 
 同步目录
 -----
