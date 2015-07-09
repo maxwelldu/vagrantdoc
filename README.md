@@ -18,7 +18,7 @@ Vagrant使开发环境更容易!
 安装
 -----
 
-* **翻译中** [简介](install-overview.md)
+* **已定稿** [简介](install-overview.md)
 * **翻译中** [向后兼容](install-backward-compatibility.md)
 * **翻译中** [升级](install-upgrading.md)
 * **翻译中** [升级从1.0.X](install-upgrading-from-1.0.X.md)
