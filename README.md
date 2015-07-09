@@ -66,7 +66,7 @@ Vagrant使开发环境更容易!
 * **翻译中** [更多命令](command-line-interface-more-commands.md)
 * **翻译中** [机器清晰输出](command-line-interface-machine-readable-output.md)
 
-Vagrant分享
+分享Vagrant
 -----
 
 * **翻译中** [简介](vagrant-share-overview.md)
@@ -120,7 +120,7 @@ Boxes
 * **已定稿** [简介](networking-overview.md)
 * **已定稿** [基础用法](networking-basic-usage.md)
 * **翻译中** [端口转发](networking-forwarded-ports.md)
-* **翻译中** [私有网络](networking-private-network.md)
+* **已定稿** [私有网络](networking-private-network.md)
 * **翻译中** [公共网络](networking-public-network.md)
 
 同步目录
@@ -138,7 +138,7 @@ Boxes
 
 * **翻译中** [多机器的用法](multi-machine.md)
 
-供应者
+提供者
 -----
 
 * **翻译中** [简介](providers-overview.md)
