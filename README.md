@@ -13,7 +13,7 @@ Vagrant使开发环境更容易!
 为什么Vagrant
 ------
 
-* **翻译中** [简介](why-vagrant-overview.md)
+* **已定稿** [简介](why-vagrant-overview.md)
 
 安装
 -----
@@ -96,7 +96,7 @@ Boxes
 * **翻译中** [创建一个基础的 Box](boxes-create-a-base-box.md)
 * **翻译中** [Box 文件格式](boxes-box-file-format.md)
 
-提供
+工具提供
 -----
 
 * **翻译中** [简介](provisioning-overview.md)
