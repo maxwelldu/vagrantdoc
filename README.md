@@ -180,6 +180,6 @@ Boxes
 其他
 -----
 
-* **翻译中** [简介](other-overview.md)
+* **已定稿** [简介](other-overview.md)
 * **翻译中** [调试](other-debugging.md)
 * **翻译中** [环境变量](other-environmental-variables.md)
