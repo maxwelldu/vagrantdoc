@@ -80,7 +80,7 @@ Vagrant使开发环境更容易!
 Vagrantfile
 -----
 
-* **翻译中** [简介](vagrantfile-overview.md)
+* **已定稿** [简介](vagrantfile-overview.md)
 * **翻译中** [配置版本](vagrantfile-configuration-version.md)
 * **翻译中** [最低 Vagrant 版本](vagrantfile-minimum-vagrant-version.md)
 * **翻译中** [提示和技巧](vagrantfile-tips-and-tricks.md)
