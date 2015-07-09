@@ -42,7 +42,7 @@ Vagrant使开发环境更容易!
 命令行接口
 -----
 
-* **翻译中** [简介](command-line-interface-overview.md)
+* **已定稿** [简介](command-line-interface-overview.md)
 * **翻译中** [box](command-line-interface-box.md)
 * **翻译中** [connect](command-line-interface-connect.md)
 * **翻译中** [destroy](command-line-interface-destroy.md)
