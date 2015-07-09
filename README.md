@@ -48,7 +48,7 @@ Vagrant使开发环境更容易!
 * **已定稿** [destroy](command-line-interface-destroy.md)
 * **翻译中** [global-status](command-line-interface-global-status.md)
 * **已定稿** [halt](command-line-interface-halt.md)
-* **翻译中** [init](command-line-interface-init.md)
+* **已定稿** [init](command-line-interface-init.md)
 * **翻译中** [login](command-line-interface-login.md)
 * **翻译中** [package](command-line-interface-package.md)
 * **翻译中** [plugin](command-line-interface-plugin.md)
