@@ -5,7 +5,7 @@ Vagrant文档中文翻译
 
 Vagrant使开发环境更容易!
 
-概述
+介绍
 -----
 
 * **已定稿** [简介](overview.md)
@@ -24,7 +24,7 @@ Vagrant使开发环境更容易!
 * **翻译中** [升级从1.0.X](install-upgrading-from-1.0.X.md)
 * **翻译中** [卸载](install-uninstallation.md)
 
-快速开始
+入门
 -----
 
 * **已定稿** [简介](started-overview.md)
