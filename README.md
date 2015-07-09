@@ -127,7 +127,7 @@ Boxes
 -----
 
 * **已定稿** [简介](synced-folders-overview.md)
-* **翻译中** [基本用法](synced-folders-basic-usage.md)
+* **已定稿** [基本用法](synced-folders-basic-usage.md)
 * **翻译中** [NFS](synced-folders-nfs.md)
 * **翻译中** [RSync](synced-folders-rsync.md)
 * **翻译中** [SMB](synced-folders-smb.md)
