@@ -33,7 +33,7 @@ Vagrant使开发环境更容易!
 * **已定稿** [启动和连接](started-up-and-ssh.md)
 * **已定稿** [同步目录](started-synced-folders.md)
 * **翻译中** [提供](started-provisioning.md)
-* **翻译中** [网络](started-networking.md)
+* **已定稿** [网络](started-networking.md)
 * **翻译中** [分享](started-share.md)
 * **翻译中** [拆卸](started-teardown.md)
 * **已定稿** [重新建立](started-rebuild.md)

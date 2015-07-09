@@ -26,5 +26,3 @@ end
 -----------------
 
 Vagrant 也有其他形式的网络, 允许你指定一个静态IP地址来访问虚拟机, 或者桥接的形式访问虚拟机在一个已经存在的局域网中. 如果你有兴趣其他的方式, 请阅读 [网络](networking-overview.md)页面
-
-Vagrant also has other forms of networking, allowing you to assign a static IP address to the guest machine, or to bridge the guest machine onto an existing network. If you're interested in other options, read the networking page.
