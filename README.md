@@ -131,7 +131,7 @@ Boxes
 * **翻译中** [NFS](synced-folders-nfs.md)
 * **翻译中** [RSync](synced-folders-rsync.md)
 * **翻译中** [SMB](synced-folders-smb.md)
-* **翻译中** [VirtualBox](synced-folders-virtualbox.md)
+* **已定稿** [VirtualBox](synced-folders-virtualbox.md)
 
 多机器
 -----
