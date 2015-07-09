@@ -136,7 +136,7 @@ Boxes
 多机器
 -----
 
-* **翻译中** [多机器的用法](multi-machine.md)
+* **已定稿** [多机器的用法](multi-machine.md)
 
 提供者
 -----
