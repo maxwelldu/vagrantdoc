@@ -43,7 +43,7 @@ Vagrant使开发环境更容易!
 -----
 
 * **已定稿** [简介](command-line-interface-overview.md)
-* **翻译中** [box](command-line-interface-box.md)
+* **已定稿** [box](command-line-interface-box.md)
 * **翻译中** [connect](command-line-interface-connect.md)
 * **翻译中** [destroy](command-line-interface-destroy.md)
 * **翻译中** [global-status](command-line-interface-global-status.md)
@@ -55,16 +55,17 @@ Vagrant使开发环境更容易!
 * **翻译中** [provision](command-line-interface-provision.md)
 * **翻译中** [rdp](command-line-interface-rdp.md)
 * **翻译中** [reload](command-line-interface-reload.md)
-* **翻译中** [resume](command-line-interface-resume.md)
+* **已定稿** [resume](command-line-interface-resume.md)
 * **翻译中** [share](command-line-interface-share.md)
 * **翻译中** [ssh](command-line-interface-ssh.md)
-* **翻译中** [ssh-config](command-line-interface-ssh-config.md)
-* **翻译中** [status](command-line-interface-status.md)
-* **翻译中** [suspend](command-line-interface-suspend.md)
+* **已定稿** [ssh-config](command-line-interface-ssh-config.md)
+* **已定稿** [status](command-line-interface-status.md)
+* **已定稿** [suspend](command-line-interface-suspend.md)
 * **翻译中** [up](command-line-interface-up.md)
-* **翻译中** [version](command-line-interface-version.md)
+* **已定稿** [version](command-line-interface-version.md)
 * **翻译中** [更多命令](command-line-interface-more-commands.md)
 * **翻译中** [机器清晰输出](command-line-interface-machine-readable-output.md)
+
 
 分享Vagrant
 -----
