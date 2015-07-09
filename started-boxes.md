@@ -40,6 +40,6 @@ end
 
 为了剩下的开始指南, 我们将只使用我们之前添加的 "hashicorp/precise32" box. 但是完成开始指南不久, 你的第一个问题可能是 "我到哪里找到更多的 boxes?"
 
-找到更多boxes 最好的地方是 [HashiCorp's Atlas box catalog](). HashiCorp's Atlas 有一个公众的免费可能的 boxes 目录, 可以运行在许多平台. HashiCorp's Atlas也有一个强大的搜索特性允许你来找到你关心的 box.
+找到更多boxes 最好的地方是 [HashiCorp's Atlas box catalog](https://atlas.hashicorp.com/boxes/search). HashiCorp's Atlas 有一个公众的免费可能的 boxes 目录, 可以运行在许多平台. HashiCorp's Atlas也有一个强大的搜索特性允许你来找到你关心的 box.
 
 另外的方式找到免费的 boxes, HashiCorp's Atlas 让你管理自己的 boxes, 如果你想要使用一个私有的 box, 可以在你自己的组织下面创建 boxes.

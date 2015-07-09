@@ -29,7 +29,7 @@ Vagrant使开发环境更容易!
 
 * **已定稿** [简介](started-overview.md)
 * **已定稿** [项目安装](started-project-setup.md)
-* **翻译中** [盒子](started-boxes.md)
+* **已定稿** [Boxes](started-boxes.md)
 * **已定稿** [启动和连接](started-up-and-ssh.md)
 * **已定稿** [同步目录](started-synced-folders.md)
 * **翻译中** [提供](started-provisioning.md)
