@@ -35,7 +35,7 @@ Vagrant使开发环境更容易!
 * **已定稿** [提供](started-provisioning.md)
 * **已定稿** [网络](started-networking.md)
 * **翻译中** [分享](started-share.md)
-* **翻译中** [拆卸](started-teardown.md)
+* **已定稿** [拆卸](started-teardown.md)
 * **已定稿** [重新建立](started-rebuild.md)
 * **已定稿** [提供者](started-providers.md)
 
@@ -126,7 +126,7 @@ Boxes
 同步目录
 -----
 
-* **翻译中** [简介](synced-folders-overview.md)
+* **已定稿** [简介](synced-folders-overview.md)
 * **翻译中** [基本用法](synced-folders-basic-usage.md)
 * **翻译中** [NFS](synced-folders-nfs.md)
 * **翻译中** [RSync](synced-folders-rsync.md)
