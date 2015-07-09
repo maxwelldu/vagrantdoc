@@ -117,8 +117,8 @@ Boxes
 网络
 -----
 
-* **翻译中** [简介](networking-overview.md)
-* **翻译中** [基础用法](networking-basic-usage.md)
+* **已定稿** [简介](networking-overview.md)
+* **已定稿** [基础用法](networking-basic-usage.md)
 * **翻译中** [端口转发](networking-forwarded-ports.md)
 * **翻译中** [私有网络](networking-private-network.md)
 * **翻译中** [公共网络](networking-public-network.md)
