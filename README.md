@@ -142,9 +142,9 @@ Boxes
 提供者
 -----
 
-* **翻译中** [简介](providers-overview.md)
-* **翻译中** [安装](providers-installation.md)
-* **翻译中** [基本用法](providers-basic-usage.md)
+* **已定稿** [简介](providers-overview.md)
+* **已定稿** [安装](providers-installation.md)
+* **已定稿** [基本用法](providers-basic-usage.md)
 * **翻译中** [配置](providers-configuration.md)
 * **翻译中** [默认提供者](providers-default-provider.md)
 * **翻译中** [VirtualBox](providers-virtualbox.md)
