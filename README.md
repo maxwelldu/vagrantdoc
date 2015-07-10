@@ -93,7 +93,7 @@ Boxes
 -----
 
 * **已定稿** [简介](boxes-overview.md)
-* **翻译中** [Box](boxes-versioning.md)
+* **已定稿** [Box](boxes-versioning.md)
 * **翻译中** [创建一个基础的 Box](boxes-create-a-base-box.md)
 * **翻译中** [Box 文件格式](boxes-box-file-format.md)
 
