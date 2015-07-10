@@ -185,6 +185,4 @@ Boxes
 * **翻译中** [调试](other-debugging.md)
 * **已定稿** [环境变量](other-environmental-variables.md)
 
-```
 如果你也想加入翻译, 请Fork这个项目, 创建一个特性分支, 并给我们发送pull request. 为了翻译保持一致, 你应该遵循[MarkDown基础语法](https://help.github.com/articles/markdown-basics/)
-```
