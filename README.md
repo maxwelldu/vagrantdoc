@@ -81,13 +81,13 @@ Vagrantfile
 -----
 
 * **已定稿** [简介](vagrantfile-overview.md)
-* **翻译中** [配置版本](vagrantfile-configuration-version.md)
-* **翻译中** [最低 Vagrant 版本](vagrantfile-minimum-vagrant-version.md)
+* **已定稿** [配置版本](vagrantfile-configuration-version.md)
+* **已定稿** [最低 Vagrant 版本](vagrantfile-minimum-vagrant-version.md)
 * **翻译中** [提示和技巧](vagrantfile-tips-and-tricks.md)
 * **翻译中** [config.vm](vagrantfile-config-vm.md)
 * **翻译中** [config.ssh](vagrantfile-config-ssh.md)
 * **翻译中** [config.winrm](vagrantfile-config-winrm.md)
-* **翻译中** [config.vagrant](vagrantfile-config-vagrant.md)
+* **已定稿** [config.vagrant](vagrantfile-config-vagrant.md)
 
 Boxes
 -----
