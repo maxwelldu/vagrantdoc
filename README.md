@@ -1,7 +1,7 @@
 Vagrant文档中文翻译
 =================================
 
-`本教程`的官网 [Vagrant](https://docs.vagrantup.com/v2/)
+本教程的官网 [Vagrant](https://docs.vagrantup.com/v2/)
 
 Vagrant使开发环境更容易!
 
